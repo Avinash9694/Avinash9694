@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://avinash9694.github.io"><img src="assets/banner.svg" alt="Avinash Sahu, software developer in Hyderabad" width="100%"></a>
+  <a href="https://avinash9694.github.io"><img src="assets/banner-v2.svg" alt="Avinash Sahu, software developer in Hyderabad" width="100%"></a>
 </p>
 
 Hi, I'm Avinash.
